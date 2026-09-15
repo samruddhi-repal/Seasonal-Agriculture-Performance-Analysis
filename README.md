@@ -106,9 +106,8 @@ Seasonal-Agriculture-Performance-Analysis/
 ```
 
 ## Author
-**Student Name:** [Your Name]  
-**College:** [Your College Name]  
-**AICTE STU ID:** [Your STU ID]
+**Student Name:** SAMRUDDHI PRADEEP REPAL   
+**AICTE STU ID:** STU6a203feff1e631780498415  
 
 ## Project Title
 **Seasonal Agriculture Performance Analysis**
