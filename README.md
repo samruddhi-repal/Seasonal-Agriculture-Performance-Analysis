@@ -1,6 +1,6 @@
 # Seasonal Agriculture Performance Analysis
 
-## Major Project – VOIS AICTE Batch 1 2026–2027
+## Major Project – Seasonal Agriculture Performance Analysis
 
 ### Project Overview
 This project analyzes agricultural data across different seasons to identify meaningful patterns, trends, relationships and differences in agricultural performance.
